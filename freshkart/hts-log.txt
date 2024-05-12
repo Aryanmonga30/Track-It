@@ -1,0 +1,23 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Fri, 27 Oct 2023 18:49:25 at https://freshcart.codescandy.com/index.html
+(httrack https://freshcart.codescandy.com/index.html )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:54:24	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/pages/index.html (from https://freshcart.codescandy.com/pages/shop-wishlist.html)
+18:54:24	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/pages/pages/shop-single.html (from https://freshcart.codescandy.com/pages/index-5.html)
+18:54:45	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/cta.html (from https://freshcart.codescandy.com/docs/index.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/shop-single.html (from https://freshcart.codescandy.com/docs/components/card.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/shop-wishlist.html (from https://freshcart.codescandy.com/docs/components/card.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/index.html (from https://freshcart.codescandy.com/docs/components/navbar.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/account-orders.html (from https://freshcart.codescandy.com/docs/components/review.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/account-settings.html (from https://freshcart.codescandy.com/docs/components/review.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/account-address.html (from https://freshcart.codescandy.com/docs/components/review.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/account-payment-method.html (from https://freshcart.codescandy.com/docs/components/review.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/components/account-notification.html (from https://freshcart.codescandy.com/docs/components/review.html)
+18:54:58	Error: 	"Not Found" (404) at link https://freshcart.codescandy.com/docs/4.3/utilities/colors/ (from https://freshcart.codescandy.com/docs/spinners.html)
+
+HTTrack Website Copier/3.49-4 mirror complete in 5 minutes 33 seconds : 326 links scanned, 313 files written (32803996 bytes overall) [19805446 bytes received at 59475 bytes/sec], 17188969 bytes transferred using HTTP compression in 210 files, ratio 17%, 46.5 requests per connection
+(12 errors, 0 warnings, 0 messages)
